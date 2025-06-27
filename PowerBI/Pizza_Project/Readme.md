@@ -6,12 +6,11 @@ An interactive Power BI dashboard developed to analyze sales performance for a p
 
 The Pizza Order Dashboard provides a comprehensive view of key business metrics such as total revenue, total orders, and pizzas sold. It includes dynamic filtering by pizza type, category, and size, helping stakeholders monitor product performance, track daily sales behaviour, and understand customer preferences across different pizza sizes and categories.
 
-##Dataset Used
+## Dataset Used
 - <a href="https://github.com/anjali0609/Data-Analytics-Projects/blob/main/PowerBI/Pizza_Project/order_details.csv">order details</a>
 - <a href="https://github.com/anjali0609/Data-Analytics-Projects/blob/main/PowerBI/Pizza_Project/orders.csv">orders</a>
 - <a href="https://github.com/anjali0609/Data-Analytics-Projects/blob/main/PowerBI/Pizza_Project/pizza_types.csv">pizza types</a>
-- <a href="https://github.com/anjali0609/Data-Analytics-Projects/blob/main/PowerBI/Pizza_Project/pizzas.csv">
-pizzas</a>
+- <a href="https://github.com/anjali0609/Data-Analytics-Projects/blob/main/PowerBI/Pizza_Project/pizzas.csv">pizzas</a>
 
 ##  Technology Used
 
@@ -38,4 +37,4 @@ pizzas</a>
 - Order Price by Size: Large pizzas generate the highest price per order.
 
 ## Dashboard Interaction
--<a href="https://github.com/anjali0609/Data-Analytics-Projects/blob/main/PowerBI/Pizza_Project/pizza_dashboard%20screenshot.png">View</a>
+- <a href="https://github.com/anjali0609/Data-Analytics-Projects/blob/main/PowerBI/Pizza_Project/pizza_dashboard%20screenshot.png">View</a>
