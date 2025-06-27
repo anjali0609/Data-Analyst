@@ -9,10 +9,10 @@ The dashboard is designed to monitor and explore key performance metrics such as
 
 This dashboard is ideal for marketing teams, sales analysts, and operations managers looking to optimize offerings and campaign performance based on real-time customer data.
 
-##Dataset used
-<a href="https://github.com/anjali0609/Data-Analytics-Projects/blob/main/Excel/Fnp(Ferns%20N%20Petals)/customers.csv">customers</a>
-<a href="https://github.com/anjali0609/Data-Analytics-Projects/blob/main/Excel/Fnp(Ferns%20N%20Petals)/orders.csv">orders</a>
-<a href="https://github.com/anjali0609/Data-Analytics-Projects/blob/main/Excel/Fnp(Ferns%20N%20Petals)/products.csv">products</a>
+## Dataset used
+- <a href="https://github.com/anjali0609/Data-Analytics-Projects/blob/main/Excel/Fnp(Ferns%20N%20Petals)/customers.csv">customers</a>
+- <a href="https://github.com/anjali0609/Data-Analytics-Projects/blob/main/Excel/Fnp(Ferns%20N%20Petals)/orders.csv">orders</a>
+- <a href="https://github.com/anjali0609/Data-Analytics-Projects/blob/main/Excel/Fnp(Ferns%20N%20Petals)/products.csv">products</a>
 
 ## Technology Used
 
@@ -36,7 +36,7 @@ This dashboard is ideal for marketing teams, sales analysts, and operations mana
 - Top Cities by Orders: Kanpur, Imphal, and Varanasi led in number of orders
 
 ##  Dashboard Interaction
-<a href="https://github.com/anjali0609/Data-Analytics-Projects/blob/main/Excel/Fnp(Ferns%20N%20Petals)/fnp_dashboard_screenshot.png">view</a>
+- <a href="https://github.com/anjali0609/Data-Analytics-Projects/blob/main/Excel/Fnp(Ferns%20N%20Petals)/fnp_dashboard_screenshot.png">view</a>
 
 
 
