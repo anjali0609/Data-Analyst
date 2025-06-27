@@ -8,8 +8,8 @@ This Excel-based dashboard allows users to explore sales patterns by month, week
 
 The dashboard includes dynamic slicers for months and weekdays, offering a customizable user experience for in-depth analysis.
 
-##Dataset used
-<a href="https://github.com/anjali0609/Data-Analytics-Projects/blob/main/Excel/coffeeShop/Coffee%20Shop%20Sales%20dataset.xlsx">Dataset</a>
+## Dataset used
+- <a href="https://github.com/anjali0609/Data-Analytics-Projects/blob/main/Excel/coffeeShop/Coffee%20Shop%20Sales%20dataset.xlsx">Dataset</a>
 
 ##  Technology Used
 
@@ -32,8 +32,8 @@ The dashboard includes dynamic slicers for months and weekdays, offering a custo
 - Order Size Distribution: Most orders were for Regular and Small sizes.
 - Day-wise Order Trends: Weekdays show higher and more consistent order volumes than weekends.
 
-##Dashboard Interaction
-<a href="https://github.com/anjali0609/Data-Analytics-Projects/blob/main/Excel/coffeeShop/Coffee%20shop%20dashboard%20screenshot.png">view</a>
+## Dashboard Interaction
+- <a href="https://github.com/anjali0609/Data-Analytics-Projects/blob/main/Excel/coffeeShop/Coffee%20shop%20dashboard%20screenshot.png">view</a>
 
 
 
