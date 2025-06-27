@@ -6,8 +6,8 @@ Overview, Artists, Tracks, and Audio.
 
 The dashboard provides insights into trends over time, audio feature distributions, and genre-level analysis — all visualized using clean, interactive elements. The dataset comprises 810 tracks.
 
-##Dataset Used
--<a href="https://github.com/anjali0609/Data-Analytics-Projects/blob/main/PowerBI/spotify_project/spotify-2023.csv">spotify-2023</a>
+## Dataset Used
+- <a href="https://github.com/anjali0609/Data-Analytics-Projects/blob/main/PowerBI/spotify_project/spotify-2023.csv">spotify-2023</a>
 - <a href="https://github.com/anjali0609/Data-Analytics-Projects/blob/main/PowerBI/spotify_project/playlist_2010to2023.csv">playlist 2010to2023</a>
 
 ## Key Insights
@@ -51,6 +51,6 @@ Custom measures created using DAX:
 - `Sum of Loudness by Year`
 - `Sum of Artist Popularity by Year`
 
-##Dashboard Interaction
--<a href="https://github.com/anjali0609/Data-Analytics-Projects/blob/main/PowerBI/spotify_project/spotify%20dashboard%20pdf.pdf"> view</a>
+## Dashboard Interaction
+- <a href="https://github.com/anjali0609/Data-Analytics-Projects/blob/main/PowerBI/spotify_project/spotify%20dashboard%20pdf.pdf"> view</a>
 
