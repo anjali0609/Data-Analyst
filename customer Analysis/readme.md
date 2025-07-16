@@ -4,7 +4,7 @@ This project focuses on Customer Churn Analysis using Python. The goal is to per
 I used Pandas, Matplotlib, and Seaborn for data cleaning, analysis, and visualization. This project helped me understand how to extract insights from raw data and visualize trends that can help businesses make informed decisions.
 
 ## Dataset 
- `Dataset`-<a href="">Link</a> 
+ `Dataset`-<a href="https://github.com/anjali0609/Data-Analytics-Projects/blob/main/customer%20Analysis/Customer%20Churn.csv">Link</a> 
 
 ## Key Objectives:
  -Understand the structure of the dataset
