@@ -33,5 +33,5 @@ Identify key factors contributing to churn
 
  -Services like Online Security and Tech Support are linked to lower churn rates
 
-This project is a beginner-friendly example of how Python can be used for meaningful business analysis using only EDA techniques.
+
 
