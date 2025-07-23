@@ -13,11 +13,7 @@ It was my *first successful integration of SQL and Power BI*, developed as a sta
 
 
 ## Dataset
-  -appointments: <a href="">Link</a>
-  -billing:<a href="">Link</a>
-  -doctors:<a href="">Link</a>
-  -patients:<a href="">Link</a>
-  -treatments:<a href="">Link</a>
+  - <a href="https://github.com/anjali0609/Data-Analytics-Projects/tree/main/Power%20Bi%20%2B%20SQL/datasets">Link</a>
 
 ##  Key Insights Uncovered
 
