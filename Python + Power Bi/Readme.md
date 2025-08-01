@@ -51,5 +51,5 @@ This project delivers a comprehensive *Sales Report Analysis* for the years *201
 > *Developed in Power BI*  
 > Provides real-time filters, slicers, and KPIs for performance tracking by region, time, and customer segment.
 
-<img src="DASHBOARD_IMAGE_PLACEHOLDER" alt="Power BI Dashboard" width="80%" />
+<img src="https://github.com/anjali0609/Data-Analytics-Projects/blob/main/Python%20%2B%20Power%20Bi/Dashboard%20Screenshot.png" alt="Power BI Dashboard" width="80%" />
 
